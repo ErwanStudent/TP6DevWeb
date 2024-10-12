@@ -1,4 +1,4 @@
-/* Pour mettre dans la nav le fond du mot "Personnages" en gris */
+/* Pour mettre dans le nav le fond du mot "Personnages" en gris */
 nav ul > li:nth-child(3) {
     background-color: lightgray;
 }

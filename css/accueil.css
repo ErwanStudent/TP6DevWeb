@@ -1,4 +1,4 @@
-/* Pour mettre dans la nav le fond du mot "Accueil" en gris */
+/* Pour mettre dans le nav le fond du mot "Accueil" en gris */
 nav ul > li:nth-child(1) {
     background-color: lightgray;
 }
