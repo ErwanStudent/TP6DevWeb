@@ -21,17 +21,17 @@ main {
     flex-grow: 1;
 }
 
-article {
+section {
     display: flex;
     flex-wrap: wrap;
 }
 
-article > img {
+section > img {
     flex-basis: 10%;
     flex-grow: 1;
 }
 
-article > section {
+section > div {
     flex-basis: 60%;
     flex-grow: 1;
 }
